@@ -1,0 +1,2 @@
+python dl_and_save_all_days.py
+pause
